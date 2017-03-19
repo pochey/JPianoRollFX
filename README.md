@@ -11,3 +11,5 @@ backspace - clears screen of notes and resets midi score to beginning
 tab - show the options pane (which is used to load files)
 
 c - print the number of notes on the screen into the console
+
+![alt tag](https://github.com/pochey/JPianoRollFX/blob/master/JPianoRollFX.png)
